@@ -1,0 +1,2 @@
+# kuyhalagu.js
+kuyhalagu
